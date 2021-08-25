@@ -5,7 +5,7 @@ console.log(GITHUB_TOKEN)
 class App extends Component {
     render() {
         return (
-            <div>Hello Graphal</div>
+            <div>Hello Graphal test</div>
         )
     }
 }
